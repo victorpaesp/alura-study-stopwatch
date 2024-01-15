@@ -35,6 +35,11 @@
   margin-bottom: 8px;
   position: relative;
   cursor: pointer;
+  transition: all 0.3s;
+
+  &:hover {
+    background-color: #2e2e2e;
+  }
 
   h3 {
     margin-bottom: 8px;
