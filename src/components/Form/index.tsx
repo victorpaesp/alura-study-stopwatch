@@ -29,7 +29,7 @@ class Form extends React.Component {
           />
         </div>
         <div className={style.inputContainer}>
-          <Button />
+          <Button text="Add" />
         </div>
       </form>
     );
